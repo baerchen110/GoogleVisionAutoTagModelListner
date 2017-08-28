@@ -1,2 +1,3 @@
 # liferay-france-se
-liferay-france-se
+Google Vison API
+
