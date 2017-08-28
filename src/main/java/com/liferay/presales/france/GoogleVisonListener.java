@@ -135,9 +135,6 @@ public class GoogleVisonListener extends BaseModelListener<AssetEntry>{
 				.build();
 	}
 	
-	public void connect(Vision vision) {
-		this.vision = vision;
-	}
 	 
 	transient Vision vision;
 	private static final String APPLICATION_NAME = "Google-VisionLabelSample/1.0";
